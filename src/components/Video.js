@@ -6,7 +6,7 @@ function Video() {
   const fetchVideo = async () => {
     try {
       const response = await fetch(
-        "http://images-api.nasa.gov/search?media_type=video"
+        "https://images-api.nasa.gov/search?media_type=video"
       );
       const vidres = await response.json();
       const videos = vidres.collection.items;
