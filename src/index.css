@@ -1,0 +1,18 @@
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
+  .map{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  .location-icon{
+    font-size: 2rem;
+    color: red;
+  }
+  .loader{
+  max-width: 600px;
+max-height: 600px;
+padding-top:10% ;
+padding-left:42%;
+  }
