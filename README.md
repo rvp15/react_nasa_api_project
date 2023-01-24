@@ -29,7 +29,8 @@ The website is developed with
 - **'/collection'**- shows the liked pods
 - **'/wildfire'** - shows wildfire location around the world in google maps
 - **'/volcano'** - show active volcano locations around the world
-
+>HomePage
+![Alt text](public/homescreen.png)
 >Challenges 
 
 - Getting Google Map to showup was challenging 
