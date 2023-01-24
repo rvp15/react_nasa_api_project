@@ -29,9 +29,30 @@ The website is developed with
 - **'/collection'**- shows the liked pods
 - **'/wildfire'** - shows wildfire location around the world in google maps
 - **'/volcano'** - show active volcano locations around the world
->HomePage
+>PAGES
+
+>HomePage:
+Home Page of the Application make API call to NASA OpenAPI and fetch Picture of the day and displays it, also fecth a vedio from NASA API
 ![Alt text](public/homescreen.png)
+
+>Gallery Page:
+Shows the POD images between selected dates
+![Alt text](public/GalleryPage.png)
+
+>CollectionPage:
+Collection Page List the list of liked pictures from the gallery.
+
+![Alt text](public/collectionPage.png)
 >Challenges 
+
+>WildfirePage:
+
+This page displays Natural Wildfire Events occured around the world plotted on Google Maps.
+![Alt text](public/wildfire.png)
+
+>Volcano Page:
+ This page displays Natural volcano events occured around the world by fetching Geo coordinates feom NASA API and plotting on Google map API.
+ ![Alt text](public/valcano.png)
 
 - Getting Google Map to showup was challenging 
 - Fetching random video was little challenging.
