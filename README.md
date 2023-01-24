@@ -65,3 +65,6 @@ This page displays Natural Wildfire Events occured around the world plotted on G
 >Installation
 
 clone the repository and npm install to install the dependencies
+
+>Project Live:
+https://react-nasa-api-project.onrender.com
