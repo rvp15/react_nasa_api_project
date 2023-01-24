@@ -54,9 +54,6 @@ This page displays Natural Wildfire Events occured around the world plotted on G
  This page displays Natural volcano events occured around the world by fetching Geo coordinates feom NASA API and plotting on Google map API.
  ![Alt text](public/valcano.png)
 
-- Getting Google Map to showup was challenging 
-- Fetching random video was little challenging.
-
 
  >Future Implementation
 
